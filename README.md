@@ -22,5 +22,10 @@ My page on github: [WSRIcardo](https://wsricardo.github.io)
 * Libic-Data
 * Itaenga Conecta
 * Engaslider
+* Introprog
 
 More code in repositories.
+
+### Portuguese (Introprog)
+
+Material de introdução básica a lógica de programação no repositório [Introprog](https://github.com/wsricardo/introprog)
