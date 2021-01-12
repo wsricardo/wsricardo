@@ -39,3 +39,7 @@ O subprojeto Libic, ou Library Itaenga Conecta, provê uma biblioteca digital po
 ### Portuguese (Introprog)
 
 Material de introdução básica a lógica de programação no repositório [Introprog](https://github.com/wsricardo/introprog)
+
+## Gist Snippet Codes
+
+[Codes](https://gist.github.com/wsricardo)
