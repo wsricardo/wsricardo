@@ -26,6 +26,12 @@ My page on github: [WSRIcardo](https://wsricardo.github.io)
 
 More code in repositories.
 
+
+### Libic-data
+
+[Libic-data](https://github.com/ItaengaConecta/libic-data)
+
+
 ### Portuguese (Introprog)
 
 Material de introdução básica a lógica de programação no repositório [Introprog](https://github.com/wsricardo/introprog)
