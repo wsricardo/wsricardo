@@ -1,4 +1,4 @@
-### Hi there 👋
+# WSRicardo 👋
 
 <!--
 **wsricardo/wsricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My page on github: [WSRIcardo](https://wsricardo.github.io)
+
+## Projects
+
+* Libic-Data
+* Itaenga Conecta
+* Engaslider
+
+More code in repositories.
