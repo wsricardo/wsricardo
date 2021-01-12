@@ -27,9 +27,11 @@ My page on github: [WSRIcardo](https://wsricardo.github.io)
 More code in repositories.
 
 
-### Libic-data
+### Libic
 
 Projeto Libic (Library Itaenga Conecta) is a work whose purpose is to compile free educational materials offered by educational institutions in general and their authors with the objective of disseminating knowledge in a free and democratic way without any violations of intellectual property and copyright. (Data csv/json. )
+
+O subprojeto Libic, ou Library Itaenga Conecta, provê uma biblioteca digital por meio de uma API json a qual serve uma lista de ebooks (livros digitais), tutoriais, apostilas e artigos tanto em inglês como português afim de tornar acessiveis para consulta e download de tais materiais preservando os direitos dos autores tendo em vista também o não compartlhamento de materiais restritos por copyright os quais não são acessiveis para download. 
 
 [Libic-data](https://github.com/ItaengaConecta/libic-data)
 
