@@ -24,7 +24,7 @@ My page on github: [WSRIcardo](https://wsricardo.github.io)
 * Engaslider
 * Introprog
 * MakVincis
-* Codecats
+* Codecast
 
 More code in repositories.
 
