@@ -23,6 +23,8 @@ My page on github: [WSRIcardo](https://wsricardo.github.io)
 * Itaenga Conecta
 * Engaslider
 * Introprog
+* MakVincis
+* Codecats
 
 More code in repositories.
 
@@ -39,6 +41,17 @@ O subprojeto Libic, ou Library Itaenga Conecta, provê uma biblioteca digital po
 ### Portuguese (Introprog)
 
 Material de introdução básica a lógica de programação no repositório [Introprog](https://github.com/wsricardo/introprog)
+
+### MakvVincis
+
+Canal voltado  à artes, ciências, matemática e tecnologia.
+[Mak Vincis](https://www.youtube.com/channel/UCoOdEvMxIKc4z2P0zkqjBFA)
+
+### Codecast
+
+Pequenos vídeos desmontrando pequenos códigos e componentes e links para material sobre tópico.
+[Codecast](https://youtube.com/playlist?list=PLxrtlvmYToMILc4EZxKxOkI1YUuHHL2vJ)
+
 
 ## Gist Snippet Codes
 
