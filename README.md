@@ -46,6 +46,7 @@ Material de introdução básica a lógica de programação no repositório [Int
 
 Canal voltado  à artes, ciências, matemática e tecnologia.
 [Mak Vincis](https://www.youtube.com/channel/UCoOdEvMxIKc4z2P0zkqjBFA)
+
 [MakVincis Blog](https://makvincis.blogspot.com)
 
 ### Codecast
