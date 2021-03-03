@@ -48,7 +48,9 @@ Canal voltado  à artes, ciências, matemática e tecnologia.
 
 [MakVincis Blog](https://makvincis.blogspot.com)
 
-[Ajude Via Catarse](https://www.catarse.me/makvincis)
+### Support | Apoie
+
+[Ajude Via Catarse/Support This Projects](https://www.catarse.me/makvincis)
 
 ### Codecast
 
