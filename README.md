@@ -50,7 +50,7 @@ Canal voltado  à artes, ciências, matemática e tecnologia.
 
 ### Support | Apoie
 
-[Ajude Via Catarse/Support This Projects](https://www.catarse.me/makvincis)
+[Ajude Via Catarse/Support These Projects](https://www.catarse.me/makvincis)
 
 ### Codecast
 
