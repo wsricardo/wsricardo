@@ -41,7 +41,7 @@ Libic, provê uma biblioteca digital por meio de uma API json a qual serve uma l
 
 Material de introdução básica a lógica de programação no repositório [Introprog](https://github.com/wsricardo/introprog)
 
-### MakvVincis
+### MakVincis
 
 Canal voltado  à artes, ciências, matemática e tecnologia.
 [Mak Vincis](https://www.youtube.com/channel/UCoOdEvMxIKc4z2P0zkqjBFA)
