@@ -37,9 +37,11 @@ Libic, provê uma biblioteca digital por meio de uma API json a qual serve uma l
 [Libic-data](https://github.com/wsricardo/libic-data)
 
 
+
 ### Portuguese (Introprog)
 
 Material de introdução básica a lógica de programação no repositório [Introprog](https://github.com/wsricardo/introprog)
+
 
 ### MakVincis
 
@@ -48,9 +50,16 @@ Canal voltado  à artes, ciências, matemática e tecnologia.
 
 [MakVincis Blog](https://makvincis.blogspot.com)
 
+
 ### Support | Apoie
 
 [Ajude Via Catarse/Support These Projects](https://www.catarse.me/makvincis)
+
+
+### Blog WSRicardo
+
+[WSRicardo](https://wsricardo.blogspot.com)
+
 
 ### Codecast
 
