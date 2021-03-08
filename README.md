@@ -61,6 +61,10 @@ Canal voltado  à artes, ciências, matemática e tecnologia.
 [WSRicardo](https://wsricardo.blogspot.com)
 
 
+### Instagram
+
+[wandri43](https://www.instagram.com/wandri43/)
+
 ### Codecast
 
 Pequenos vídeos desmontrando pequenos códigos e componentes e links para material sobre tópico.
