@@ -77,6 +77,8 @@ Pequenos vídeos desmontrando pequenos códigos e componentes e links para mater
 
 [Codes](https://gist.github.com/wsricardo)
 
+## Recursos E Materiais
+
 <a target="_blank" href="https://www.amazon.com.br/b?_encoding=UTF8&tag=wsricardo-20&linkCode=ur2&linkId=8c5274a8d8e0af10093c6da524203ede&camp=1789&creative=9325&node=16364755011">Notebooks na Amazon</a>
 <br />
 <br />
