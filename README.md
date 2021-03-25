@@ -76,3 +76,23 @@ Pequenos vídeos desmontrando pequenos códigos e componentes e links para mater
 ## Gist Snippet Codes
 
 [Codes](https://gist.github.com/wsricardo)
+
+<a target="_blank" href="https://www.amazon.com.br/b?_encoding=UTF8&tag=wsricardo-20&linkCode=ur2&linkId=8c5274a8d8e0af10093c6da524203ede&camp=1789&creative=9325&node=16364755011">Notebooks na Amazon</a>
+<br />
+<br />
+
+<a target="_blank" href="https://www.amazon.com.br/b?_encoding=UTF8&tag=wsricardo-20&linkCode=ur2&linkId=6f55b234a7dc218424ae87e326e7e011&camp=1789&creative=9325&node=7842837011">Livros </a>
+<br />
+<br />
+
+<a target="_blank" href="https://www.amazon.com.br/b?_encoding=UTF8&tag=wsricardo-20&linkCode=ur2&linkId=f6ee4e92b8cc1162cdbdcf22257b7f2f&camp=1789&creative=9325&node=17095636011">Materiais Para Arte e Artesanato</a>
+
+<br />
+<br />
+
+<a href="https://www.amazon.com.br/s?k=amazon+prime&i=instant-video&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=34PHT6SNIIZPR&sprefix=amazon%2Caps%2C264&linkCode=ll2&tag=wsricardo-20&linkId=e3fad3523cbc47392e297962ae1543a1&language=pt_BR&ref_=as_li_ss_tl">Filmes e Vídeos</a>
+
+<br />
+<br />
+
+<a href="https://www.amazon.com.br/s?k=prime+music&i=popular&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&linkCode=ll2&tag=wsricardo-20&linkId=855b84b16587cec75c03efd7cce5dc9b&language=pt_BR&ref_=as_li_ss_tl">Música</a>
