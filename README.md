@@ -32,7 +32,7 @@ More code in repositories.
 
 Projeto Libic is a work whose purpose is to compile free educational materials offered by educational institutions in general and their authors with the objective of disseminating knowledge in a free and democratic way without any violations of intellectual property and copyright. (Data csv/json. )
 
-Libic, provê uma biblioteca digital por meio de uma API json a qual serve uma lista de ebooks (livros digitais), tutoriais, apostilas e artigos tanto em inglês como português afim de tornar acessiveis para consulta e download de tais materiais preservando os direitos dos autores tendo em vista também o não compartlhamento de materiais restritos por copyright os quais não são acessiveis para download. 
+Libic, provê uma biblioteca digital por meio de uma arquivo json a qual serve uma lista de ebooks (livros digitais), tutoriais, apostilas e artigos tanto em inglês como português afim de tornar acessiveis para consulta e download de tais materiais preservando os direitos dos autores tendo em vista também o não compartlhamento de materiais restritos por copyright os quais não são acessiveis para download. 
 
 [Libic-data](https://github.com/wsricardo/libic-data)
 
