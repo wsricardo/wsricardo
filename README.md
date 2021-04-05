@@ -22,10 +22,7 @@ My page on github: [WSRIcardo](https://wsricardo.github.io)
 * Libic-Data
 * Engaslider
 * Introprog
-* MakVincis
-* Codecast
 
-More code in repositories.
 
 
 ### Libic
@@ -38,7 +35,7 @@ Libic, provê uma biblioteca digital por meio de uma arquivo json a qual serve u
 
 
 
-### Portuguese (Introprog)
+### Programação De Computador
 
 Material de introdução básica a lógica de programação no repositório [Introprog](https://github.com/wsricardo/introprog)
 
@@ -62,10 +59,6 @@ Canal voltado  à artes, ciências, matemática e tecnologia.
 
 [WSRicardo](https://wsricardo.blogspot.com)
 
-
-### Instagram
-
-[wandri43](https://www.instagram.com/wandri43/)
 
 ### Codecast
 
