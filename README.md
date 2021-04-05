@@ -17,13 +17,6 @@ Here are some ideas to get you started:
 
 My page on github: [WSRIcardo](https://wsricardo.github.io)
 
-## Projects
-
-* Libic-Data
-* Engaslider
-* Introprog
-
-
 
 ### Libic
 
