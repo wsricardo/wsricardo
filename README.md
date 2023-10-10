@@ -66,10 +66,11 @@ In soon/ Em breve
 
 * [IMPA Youtube](https://www.youtube.com/c/impabr)
 * [Univesp TV](https://www.youtube.com/user/univesptv)
+* [Professor João Gondim - Matemática](https://www.youtube.com/@JoaoGondim)
+* [Matemática Universitária com Professor Renan Lima](https://www.youtube.com/@matematicauniversitariaRenan)
 * [Programação Dinâmica](https://www.youtube.com/c/Programa%C3%A7%C3%A3oDin%C3%A2mica)
 * [Live Python/Dunossauro](https://www.youtube.com/@Dunossauro)
 * [Programação Descomplicada](https://www.youtube.com/user/progdescomplicada)
-* [Matemática Universitária](https://www.youtube.com/c/Matem%C3%A1ticaUniversit%C3%A1riaProfRenan)
 * [Toda Matemática](https://www.youtube.com/c/GustavoViegascurso)
 * [Reflexões Matemáticas](https://www.youtube.com/c/Reflex%C3%B5esMatem%C3%A1ticasDrDilbertoJ%C3%BAnior)
 * [USP no Youtube](https://www.youtube.com/c/CanalUSP)
