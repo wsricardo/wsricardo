@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+## My Projects
+
 My page on github: [WSRicardo](https://wsricardo.github.io)
 
 ### Dimensão Alfa
@@ -26,8 +29,20 @@ My page on github: [WSRicardo](https://wsricardo.github.io)
 
 [Biblioteca Livros ciências exatas e tecnologias](https://wsricardo.blogspot.com/2022/02/biblioteca-exatec-livros-gratuitos-em.html)
 
+### Blog WSRicardo
 
-### Matemática e Computação
+[WSRicardo](https://wsricardo.blogspot.com)
+
+### Gist Snippet Codes
+
+[Codes](https://gist.github.com/wsricardo)
+
+## Recursos E Materiais
+
+In soon/ Em breve
+
+
+## Matemática e Computação
 
 1. [Matemática - Notas ](https://github.com/wsricardo/matematica) 
 2. [Fundamentos de Matemática para Computação](https://wsricardo.blogspot.com/2023/09/fundamentos-de-matematica-para.html)
@@ -40,30 +55,19 @@ My page on github: [WSRicardo](https://wsricardo.github.io)
 9. [Intel Manuals - Intel® 64 and IA-32 Architectures Software Developer Manuals ](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
 
 
-### Programação De Computador
+## Programação De Computador
 
 
 Extras: [PANDAS IME USP](https://panda.ime.usp.br/)
 
-### History & Retro Computer
+## History & Retro Computer
 
 - [MSDOS, Operating System, original sources](https://github.com/microsoft/MS-DOS), ( [Alternative Link](https://github.com/CodesFork/MS-DOS) )
 
-### Blog WSRicardo
-
-[WSRicardo](https://wsricardo.blogspot.com)
-
-## Gist Snippet Codes
-
-[Codes](https://gist.github.com/wsricardo)
 
 ## List Windows Managers For Linux
 
 [Window Managers (My Blog post)](https://wsricardo.blogspot.com/2023/06/gerenciadores-de-janelas-windows.html)
-
-## Recursos E Materiais
-
-In soon/ Em breve
 
 
 ## Lista de Canais Sugeridos
