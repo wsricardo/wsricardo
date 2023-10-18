@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-## My Projects
+## Me
 
 My page on github: [WSRicardo](https://wsricardo.github.io)
 
