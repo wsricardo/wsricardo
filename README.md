@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 
 
-## Me
-
 My page on github: [WSRicardo](https://wsricardo.github.io)
 
 ### Dimensão Alfa
