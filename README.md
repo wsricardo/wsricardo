@@ -31,6 +31,10 @@ My page on github: [WSRicardo](https://wsricardo.github.io)
 
 [WSRicardo](https://wsricardo.blogspot.com)
 
+### Instagram
+
+[WSRicardo](https://www.instagram.com/wsricardo23/)
+
 ### Gist Snippet Codes
 
 [Codes](https://gist.github.com/wsricardo)
