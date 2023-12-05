@@ -71,6 +71,7 @@ Extras: [PANDAS IME USP](https://panda.ime.usp.br/)
 
 * [IMPA Youtube](https://www.youtube.com/c/impabr)
 * [Univesp TV](https://www.youtube.com/user/univesptv)
+* [Exatas Uninter]](https://www.youtube.com/@exatasuninter3152)
 * [Professor João Gondim - Matemática](https://www.youtube.com/@JoaoGondim)
 * [Matemática Universitária com Professor Renan Lima](https://www.youtube.com/@matematicauniversitariaRenan)
 * [Programação Dinâmica](https://www.youtube.com/c/Programa%C3%A7%C3%A3oDin%C3%A2mica)
