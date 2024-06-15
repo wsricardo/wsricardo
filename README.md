@@ -39,18 +39,22 @@ My page on github: [WSRicardo](https://wsricardo.github.io)
 
 [Codes](https://gist.github.com/wsricardo)
 
+### List Windows Managers For Linux
+
+[Window Managers (My Blog post)](https://wsricardo.blogspot.com/2023/06/gerenciadores-de-janelas-windows.html)
+
 ### Recursos E Materiais
 
 In soon/ Em breve
 
 * [Matemática - Notas ](https://github.com/wsricardo/matematica)
+* [Fundamentos de Matemática para Computação](https://wsricardo.blogspot.com/2023/09/fundamentos-de-matematica-para.html)
 
 
 ## Conteúdos & Links Sugeridos 
 
 ### Matemática e Computação
 
-* [Fundamentos de Matemática para Computação](https://wsricardo.blogspot.com/2023/09/fundamentos-de-matematica-para.html)
 * [Algoritmos e Estruturas de Dados](https://algoritmosempython.com.br/)
 * [Projetos de Algoritmos em C](https://www.ime.usp.br/~pf/algoritmos/index.html)
 * [Programação em Assembly, Felipe Silva](https://mentebinaria.gitbook.io/assembly/) @Silva97
@@ -60,21 +64,17 @@ In soon/ Em breve
 * [Intel Manuals - Intel® 64 and IA-32 Architectures Software Developer Manuals ](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
 
 
-## Programação De Computador
+### Programação De Computador
 
 Extras: [PANDAS IME USP](https://panda.ime.usp.br/)
 
-## History & Retro Computer
+### History & Retro Computer
 
 - [MSDOS, Operating System, original sources](https://github.com/microsoft/MS-DOS), ( [Alternative Link](https://github.com/CodesFork/MS-DOS) )
 
 
-## List Windows Managers For Linux
 
-[Window Managers (My Blog post)](https://wsricardo.blogspot.com/2023/06/gerenciadores-de-janelas-windows.html)
-
-
-## Lista de Canais Sugeridos
+### Lista de Canais Sugeridos
 
 * [IMPA Youtube](https://www.youtube.com/c/impabr)
 * [Univesp TV](https://www.youtube.com/user/univesptv)
