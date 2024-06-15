@@ -45,7 +45,10 @@ In soon/ Em breve
 
 * [Matemática - Notas ](https://github.com/wsricardo/matematica)
 
-## Matemática e Computação
+
+## Conteúdos & Links Sugeridos 
+
+### Matemática e Computação
 
 * [Fundamentos de Matemática para Computação](https://wsricardo.blogspot.com/2023/09/fundamentos-de-matematica-para.html)
 * [Algoritmos e Estruturas de Dados](https://algoritmosempython.com.br/)
