@@ -62,6 +62,8 @@ In soon/ Em breve
 * [OS Dev - Creating Systens](https://wiki.osdev.org/Main_Page)
 * [Linux Syscall's hex codes](https://filippo.io/linux-syscall-table/)
 * [Intel Manuals - Intel® 64 and IA-32 Architectures Software Developer Manuals ](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
+* [Sistemas Operacionais - The little book about OS development](https://littleosbook.github.io/)
+* [ Programação C Moderna ]( https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE ) 
 
 
 ### Programação De Computador
