@@ -20,6 +20,10 @@ My page on github: [WSRicardo](https://wsricardo.github.io)
 
 [www.dimensaoalfa.com.br](https://www.dimensaoalfa.com.br)
 
+### WSRicardo Blog
+
+[WSRicardo Blog https://wsricardo.github.io/blog](https://wsricardo.github.io/blog)
+
 
 ### Biblioteca
 
@@ -27,7 +31,7 @@ My page on github: [WSRicardo](https://wsricardo.github.io)
 
 [Biblioteca Livros ciências exatas e tecnologias](https://wsricardo.blogspot.com/2022/02/biblioteca-exatec-livros-gratuitos-em.html)
 
-### Blog WSRicardo
+### Blog WSRicardo ( Blogger )
 
 [WSRicardo](https://wsricardo.blogspot.com)
 
