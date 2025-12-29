@@ -19,6 +19,7 @@ My page on github: [WSRicardo](https://wsricardo.github.io)
 ### Dimensão Alfa
 
 [https://dimensao-alfa.github.io](https://dimensao-alfa.github.io)
+
 [Youtube](https://www.youtube.com/@dimensaoalfa)
 
 ### WSRicardo Blog
