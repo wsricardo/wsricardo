@@ -26,6 +26,11 @@ My page on github: [WSRicardo](https://wsricardo.github.io)
 
 [WSRicardo Blog https://wsricardo.github.io/blog](https://wsricardo.github.io/blog)
 
+### LISP-DOS
+
+O LISP-DOS é um sistema operacional minimalista, escrito do zero e projetado para a arquitetura x86_64. O objetivo central deste projeto é reavivar o sonho das clássicas "LISP Machines", trazendo um ambiente computacional onde o interpretador LISP roda nativamente próximo ao "bare metal", com abstrações reduzidas.
+
+[LISP-DOS source](https://github.com/LISP-DOS/LISP-DOS)
 
 ### Biblioteca
 
