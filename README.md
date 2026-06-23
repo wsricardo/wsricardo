@@ -29,7 +29,7 @@ If you find my projects, tools, or open-source contributions helpful, please con
 ### My WSRicardo Pages
 
 * **Main Page / Portfolio**: [wsricardo.com.br](https://www.wsricardo.com.br)
-* **WSRicardo Instagram**: [wsricardo.github.io/blog](https://www.instagram.com/w.s.ricardo)
+* **WSRicardo Instagram**: [Instagram @w.s.ricardo](https://www.instagram.com/w.s.ricardo)
 * **WSRicardo Blogger**: [wsricardo.blogspot.com](https://wsricardo.blogspot.com)
 
 ### Dimensão Alfa
