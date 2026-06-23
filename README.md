@@ -32,6 +32,7 @@ If you find my projects, tools, or open-source contributions helpful, please con
 * **WSRicardo Instagram**: [Instagram @w.s.ricardo](https://www.instagram.com/w.s.ricardo)
 * **WSRicardo Blogger**: [wsricardo.blogspot.com](https://wsricardo.blogspot.com)
 
+
 ### Dimensão Alfa
 
 [https://dimensao-alfa.github.io](https://dimensao-alfa.github.io)
