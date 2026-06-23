@@ -1,6 +1,7 @@
 # WSRicardo
 
-<img src="images/futuristic_sunset_reader.png" align="right" width="200" alt="Futuristic illustration of a woman reading at sunset on a boardwalk">
+<img src="images/futuristic_sunset_reader.png" styele="width: fit-content; height: 300px;" align="right" width="200" alt="Futuristic illustration of a woman reading at sunset on a boardwalk">
+<br><br>
 
 Welcome to my GitHub! I am a passionate developer creating minimalist, human-centric tools and exploring the depths of computer science and mathematics.
 
