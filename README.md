@@ -10,7 +10,7 @@ Welcome to my GitHub! I am a passionate developer creating minimalist, human-cen
 ### [iScrev Ecosystem](https://www.iscrev.com)
 The iScrev project is an ecosystem designed to enhance digital reading, writing, and focus.
 - **[iScrev Notes](https://github.com/wsricardo/iscrev-notes)**: A privacy-first Progressive Web Application (PWA) for distraction-free journaling and note-taking.
-- **[iScrev XBoard](https://github.com/wsricardo/iscrev)**: A dedicated productivity dashboard and application tailored for enhanced focus and technical management.
+- **[iScrev XBoard](https://github.com/wsricardo/iScrev-XBoard)**: A digital whiteboard application for online classes, presentations, and agile meetings, featuring a smooth canvas-based drawing experience, built-in lesson recording with microphone audio, and PDF reading and annotation support.
 
 Discover more and try them out at: **[www.iscrev.com](https://www.iscrev.com)**
 
