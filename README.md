@@ -1,20 +1,35 @@
 # WSRicardo
 
-<!--
-**wsricardo/wsricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="images/futuristic_sunset_reader.png" align="right" width="200" alt="Futuristic illustration of a woman reading at sunset on a boardwalk">
 
+Welcome to my GitHub! I am a passionate developer creating minimalist, human-centric tools and exploring the depths of computer science and mathematics.
 
-My page on github: [WSRicardo](https://wsricardo.github.io)
+## 🚀 Recent Projects
+
+### [iScrev Ecosystem](https://www.iscrev.com)
+The iScrev project is an ecosystem designed to enhance digital reading, writing, and focus.
+- **[iScrev Notes](https://github.com/wsricardo/iscrev-notes)**: A privacy-first Progressive Web Application (PWA) for distraction-free journaling and note-taking.
+- **[iScrev XBoard](https://github.com/wsricardo/iscrev)**: A dedicated productivity dashboard and application tailored for enhanced focus and technical management.
+
+Discover more and try them out at: **[www.iscrev.com](https://www.iscrev.com)**
+
+---
+
+## 💖 Support My Work
+
+If you find my projects, tools, or open-source contributions helpful, please consider supporting my continuous development. Your support keeps these tools free, independent, and continuously improving!
+
+- 💳 **[Donate via Stripe](https://donate.stripe.com/cNieV715daoJ55X8C47kc00)** *(Link your Stripe here)*
+- 🌟 **[GitHub Sponsors](https://github.com/sponsors/wsricardo)** 
+- 🤝 **[Apoia.se](https://apoia.se/wsricardo)** *(Link Apoia.se here/ (Brazil) )*
+
+---
+
+### My WSRicardo Pages
+
+* **Main Page / Portfolio**: [wsricardo.github.io](https://wsricardo.github.io)
+* **WSRicardo Blog**: [wsricardo.github.io/blog](https://wsricardo.github.io/blog)
+* **Blogger**: [wsricardo.blogspot.com](https://wsricardo.blogspot.com)
 
 ### Dimensão Alfa
 
